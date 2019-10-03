@@ -1,0 +1,64 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url('https://scontent.fbkk5-6.fna.fbcdn.net/v/t1.0-9/71211261_1302931176537983_2793237929483304960_o.jpg?_nc_cat=102&_nc_eui2=AeFl9MsYWnOHQw-LtsbHHmN4pgTlh4p8DhoktQnrSG9ZeK0iegrnGODqa2zP3GK5VssYP73Q56w_O6MP2_762UbnV3ygRgDwuZ1viY0HqdufAg&_nc_oc=AQk-FLqhL7abdhWd34xEy3NQugUyNE46XoVb_q2jZN-bR2WTsP2edKna3zHAxM9PzFA&_nc_ht=scontent.fbkk5-6.fna&oh=f2aafedd8b5b2ba3141de798ef3246be&oe=5E353E2F');
+   
+}
+.form{
+    margin-top: 55%;
+    margin-left: 60%;
+    width: 550px;
+    height: 300px;
+    position: absolute;
+    top: 50%;
+    left: 90%;
+    transform: translate(-50% , -50%);
+    color: rgb(0, 0, 0);
+    padding: 20px;
+    border-radius: 10%;
+    background: none;
+}
+.h5{
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+.pum{
+    width:  20%;
+    height: 50px;
+    background:  #31a126;
+    border: none;
+    border-radius: 20px ;
+    font-size: 18px;
+    color: white;
+    padding: 5px;
+    cursor: pointer;
+    margin: 40px 0;
+    margin-left: 30%;
+    margin-top: 3px;
+}
+.pum:hover{
+    cursor: pointer;
+    background: #2c7925;
+    color: white;
+}
+.btn{
+    width:  20%;
+    height: 50px;
+    background:  #ca7321;
+    border: none;
+    border-radius: 20px ;
+    font-size: 18px;
+    color: white;
+    padding: 5px;
+    cursor: pointer;
+    margin: 40px 0;
+    margin-left: 55%;
+    margin-top: -118px;
+   
+}
+.btn:hover{
+    cursor: pointer;
+    background: #ca4000;
+    color: white;
+}
